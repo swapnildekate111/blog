@@ -20,3 +20,9 @@ body {
 .body-width {
     width: 600px;
 }
+
+.footer {
+    background-color: darkgray;
+    color: #fff;
+    padding: 50px;
+}
