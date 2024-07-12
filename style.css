@@ -17,9 +17,31 @@ body {
     font-size: 20px;
 }
 
-.body-width {
-    width: 600px;
+.body {
+    width: 500px;
+    margin: auto auto;
+    text-align: justify;
 }
+
+.image {
+    width: 100%;
+}
+
+.title {
+    font-size: 45px;
+    font-weight: 400;
+}
+
+.date {
+    color: darkblue;
+}
+
+.read-more {
+    text-decoration: none;
+    margin-left: 20px;
+    font-weight: 900;
+}
+
 
 .footer {
     background-color: darkgray;
